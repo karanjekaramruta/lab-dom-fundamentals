@@ -48,21 +48,3 @@ var students = [
     lastname: "Bukenya"
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
- document.querySelector("#submit").addEventListener("click", function(){
-     let     = document.querySelector("#add-text").value;
-     let newHeaderTag = document.createElement("h1");
-     newHeaderTag.innerHTML = newText;
-
-     document.querySelectorAll(".new-headers")[0].appendChild(newHeaderTag)
- })
