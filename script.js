@@ -1,50 +1,34 @@
 var students = [
-    {firstname: "Sybille",
-    lastname: "Kasslatter",
+    {
+        firstname: "Aïda",
+        lastname: "Loemba"
     },
-    {firstname: "Miranda",
-    lastname: "Kamp"
+    {
+        firstname: "Amruta",
+        lastname: "Karanjekar"
     },
-    {firstname: "Emelie",
-    lastname: "Sundgren"
+    {
+        firstname: "Ana",
+        lastname: "Durguz"
     },
-    {firstname: "Aristides",
-    lastname: "Abeywickrama"
+    {
+        firstname: "Elko",
+        lastname: "Lemiso"
     },
-    {firstname: "Damianos",
-    lastname: "Makris"
+    {
+        firstname: "Melanie",
+        lastname: "Nachef"
     },
-    {firstname: "Neil",
-    lastname: "Gursahani"
+    {
+        firstname: "Nardo",
+        lastname: "Kraaijeveld"
     },
-    {firstname: "Justin",
-    lastname: "Peeters"
+    {
+        firstname: "Nienke",
+        lastname: "Westdijk"
     },
-    {firstname: "Yvana",
-    lastname: "Wagter"
+    {
+        firstname: "Varun",
+        lastname: "Kumar Chalotra"
     },
-    {firstname: "Charles",
-    lastname: "van den Bergh"
-    },
-    {firstname: "Elena",
-    lastname: "Perrone"
-    },
-    {firstname: "Fábio",
-    lastname: "Costa"
-    },
-    {firstname: "Shabeer",
-    lastname: "Hussain"
-    },
-    {firstname: "Felix",
-    lastname: "van Riessen"
-    },
-    {firstname: "Alexandra",
-    lastname: "Muskovszky"
-    },
-    {firstname: "Azadeh",
-    lastname: "Farshidi"
-    },
-    {firstname: "Francis",
-    lastname: "Bukenya"
-    }
 ]
