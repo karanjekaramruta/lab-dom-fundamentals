@@ -1,0 +1,42 @@
+[
+    {
+        "firstname": "Aïda",
+        "lastname": "Loemba",
+        "img": "https://wd-ft-may.s3.amazonaws.com/A%C3%AFda.png"
+    },
+    {
+        "firstname": "Amruta",
+        "lastname": "Karanjekar",
+        "img":"https://wd-ft-may.s3.amazonaws.com/Amruta.png"
+    },
+    {
+        "firstname": "Ana",
+        "lastname": "Durguz",
+        "img":"https://wd-ft-may.s3.amazonaws.com/Ana.png"
+    },
+    {
+        "firstname": "Elko",
+        "lastname": "Lemiso",
+        "img": "https://wd-ft-may.s3.amazonaws.com/Elko.png"
+    },
+    {
+        "firstname": "Melanie",
+        "lastname": "Nachef",
+        "img":"https://wd-ft-may.s3.amazonaws.com/Melanie.png"
+    },
+    {
+        "firstname": "Nardo",
+        "lastname": "Kraaijeveld",
+        "img":"https://wd-ft-may.s3.amazonaws.com/Nardo.png"
+    },
+    {
+        "firstname": "Nienke",
+        "lastname": "Westdijk",
+        "img": "https://wd-ft-may.s3.amazonaws.com/Nienke.png"
+    },
+    {
+        "firstname": "Varun",
+        "lastname": "Kumar Chalotra",
+        "img":"https://wd-ft-may.s3.amazonaws.com/Varun.png"
+    }
+]

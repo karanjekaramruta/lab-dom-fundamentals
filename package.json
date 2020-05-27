@@ -1,0 +1,24 @@
+{
+  "name": "lab-dom-fundamentals",
+  "version": "1.0.0",
+  "description": "To practice the foundations of DOM manipulation here's an extra assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanjekaramruta/lab-dom-fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanjekaramruta/lab-dom-fundamentals/issues"
+  },
+  "homepage": "https://github.com/karanjekaramruta/lab-dom-fundamentals#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}

@@ -1,0 +1,13 @@
+<div class="card-deck">
+      {{#each students}}
+        <div class="card">
+            <img class="card-img-top" src={{img}} alt="Card image cap">
+            <div class="card-body">
+            <h5 class="card-title">{{firstname}} {{lastname}}</h5>
+                {{#if Amruta}}
+                    <p class="card-text"><small class="text-muted">This is Amruta </small></p>
+                {{/if}}
+            </div>
+        </div>
+     {{/each}}
+</div>
